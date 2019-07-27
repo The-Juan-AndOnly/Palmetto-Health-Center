@@ -2,15 +2,15 @@
 @import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.css';
 /* font-family for website */
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&display=swap');
-@import '/css/reset.css';
-@import '/css/header.css';
-@import '/css/about.css';
-@import '/css/contact.css';
-@import '/css/landing.css';
-@import '/css/services.css';
-@import '/css/doctors.css';
-@import '/css/booking.css';
-@import '/css/footer.css';
+@import './reset.css';
+@import './header.css';
+@import './about.css';
+@import './contact.css';
+@import './landing.css';
+@import './services.css';
+@import './doctors.css';
+@import './booking.css';
+@import './footer.css';
 
 * {
   box-sizing: border-box;
